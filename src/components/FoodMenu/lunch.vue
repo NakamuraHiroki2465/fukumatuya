@@ -159,11 +159,11 @@ export default {
                 },
                 {
                     name:'煮込みおでん',
-                    price:'500',
+                    price:'550',
                 },
                 {
                     name:'肉じゃが',
-                    price:'500',
+                    price:'550',
                 },
                 {
                     name:'もつ煮',
@@ -197,7 +197,7 @@ export default {
             drinks:[
                 {
                     name:'ビール(瓶)',
-                    price:'700'
+                    price:'800'
                 },
                 {
                     name:'ビール(缶)',
@@ -205,27 +205,55 @@ export default {
                 },
                 {
                     name:'レモンハイ',
-                    price:'450',
+                    price:'500',
                 },
                 {
                     name:'ハイボール',
-                    price:'550',
+                    price:'600',
                 },
                 {
-                    name:'コーラ',
-                    price:'250',
-                },
-                {
-                    name:'ジュース各種',
-                    price:'250'
-                },
-                {
-                    name:'お酒各種',
-                    price:'450'
+                    name:'お酒',
+                    price:'480'
                 },
                 {
                     name:'冷酒(高清水)',
-                    price:'700'
+                    price:'800'
+                },
+                {
+                    name:'コーラ',
+                    price:'300',
+                },
+                {
+                    name:'オレンジ',
+                    price:'250',
+                },
+                {
+                    name:'ジンジャエール',
+                    price:'250',
+                },
+                {
+                    name:'ファンタグレープ',
+                    price:'300',
+                },
+                {
+                    name:'烏龍茶',
+                    price:'250',
+                },
+                {
+                    name:'ミネラルウォーター',
+                    price:'250',
+                },
+                {
+                    name:'ホットコーヒー',
+                    price:'280',
+                },
+                {
+                    name:'アイスコーヒー',
+                    price:'280',
+                },
+                {
+                    name:'ソフトクリーム',
+                    price:'350'
                 }
             ]
         }
