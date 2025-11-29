@@ -57,7 +57,25 @@ export default {
                     img:require('@/assets/images/fugu.jpg'),
                     alt:"ふぐコース",
                     menu_style:"background-color:rgba(255,255,255,0.5);",
-                    menu:{ price:'7000〜8000円（時価）' }
+                    menu:{ price:'8000〜9000円（時価）' }
+                },
+                {
+                    title:'伊勢コース',
+                    text:'活けの伊勢えびを1人に1尾ずつお付けした贅沢なコースです。特別な日のお祝いにぜひご利用ください。',
+                    // NOTE: 画像がないためコメントアウト
+                    // img:require('@/assets/images/enkai-jyou.jpg'),
+                    alt:"伊勢コース",
+                    menu_style:"background-color:rgba(255,240,230,0.5);",
+                    menu:{ price:'9000円〜（時価）' }
+                },
+                {
+                    title:'特別懐石',
+                    text:'特別な日の大切な方との思い出に。最高の料理で素晴らしいひと時をお過ごしください。',
+                    // NOTE: 画像がないためコメントアウト
+                    // img:require('@/assets/images/enkai-jyou.jpg'),
+                    alt:"特別懐石",
+                    menu_style:"background-color:rgba(240,230,220,0.5);",
+                    menu:{ price:'10000円〜（応相談）' }
                 }
             ]
         }
