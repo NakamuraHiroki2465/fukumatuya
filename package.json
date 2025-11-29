@@ -4,7 +4,7 @@
   "private": true,
   "scripts": {
     "serve": "vue-cli-service serve",
-    "build": "vue-cli-service build && echo 'www.fukumatuya.com' > docs/CNAME",
+    "build": "vue-cli-service build && printf 'www.fukumatuya.com\\n' > docs/CNAME",
     "lint": "vue-cli-service lint"
   },
   "dependencies": {
