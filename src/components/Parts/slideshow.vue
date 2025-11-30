@@ -54,8 +54,8 @@ export default {
                 },
                 {
                     src:require('@/assets/images/zaisu/zaisu_four.jpg'),
-                    alt:'座椅子入れました',
-                    title:'<p style="font-size:2rem!important;color:white;position:absolute;top:50%;right:2.5%;transform:translate(-50%,-50%);height:100%;padding-top:5%;z-index:100;writing-mode:vertical-rl;font-weight:lighter!important;">座椅子入れました<p>'
+                    alt:'テーブル、椅子席',
+                    title:'<p style="font-size:2rem!important;color:white;position:absolute;top:50%;right:2.5%;transform:translate(-50%,-50%);height:100%;padding-top:5%;z-index:100;writing-mode:vertical-rl;font-weight:lighter!important;">テーブル、椅子席<p>'
                 },
                 {
                     src:require('@/assets/images/yakitori1.png'),
