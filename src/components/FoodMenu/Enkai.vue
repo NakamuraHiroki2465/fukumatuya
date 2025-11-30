@@ -22,6 +22,16 @@
         </div>
         <!--ページのメインの部分-->
         <dinnermenu :datas="dinnermenu"></dinnermenu>
+
+        <!-- コース料理の一例 -->
+        <div class="wrapper-50 course-example">
+            <h2 class="text-3xl mb-6">コース料理の一例</h2>
+            <p class="text-lg mb-4">お任せコース 5000円</p>
+            <p class="course-note">※ コース内容は一例です。季節や仕入れ状況により内容が変わります。</p>
+            <div class="course-image-container">
+                <img class="course-image" src="@/assets/images/fukumatu_food.jpg" alt="コース料理の一例">
+            </div>
+        </div>
     </div>
 </template>
 <script>
@@ -38,7 +48,7 @@ export default {
                 {
                     title:'季節コース',
                     text:'季節の食材を使った会席料理。コース値段によって中身の食材がかわります。',
-                    img:require('@/assets/images/enkai-basic.jpg'),
+                    // img:require('@/assets/images/enkai-basic.jpg'),
                     alt:"季節コース",
                     menu_style:"background-color:rgba(245,222,179,0.5);",
                     menu:{ price:'3000円〜（応相談）'}
@@ -46,7 +56,7 @@ export default {
                 {
                     title:'お任せコース',
                     text:'とにかく旨いものが食べたいというグルメ好きにおすすめです。食材にこだわりをもって旬の会席料理をお出し致します。',
-                    img:require('@/assets/images/enkai-basic2.jpg'),
+                    // img:require('@/assets/images/enkai-basic2.jpg'),
                     alt:"お任せコース",
                     menu_style:"background-color:rgba(222,187,135,0.5);",
                     menu:{ price:'5000円〜（応相談）'}
@@ -54,7 +64,7 @@ export default {
                 {
                     title:'ふぐコース',
                     text:'ふぐコースは期間限定で下関のとらふぐをうすづくり、からあげ、鍋などふぐづくしのフルコースです。',
-                    img:require('@/assets/images/fugu.jpg'),
+                    // img:require('@/assets/images/fugu.jpg'),
                     alt:"ふぐコース",
                     menu_style:"background-color:rgba(255,255,255,0.5);",
                     menu:{ price:'8000〜9000円（時価）' }
@@ -105,5 +115,23 @@ export default {
 .dinner-wrapper{
     overflow:hidden;
     width:100vw;
+}
+.course-example{
+    margin-top:80px;
+    margin-bottom:80px;
+    text-align:center;
+    .course-image-container{
+        margin:20px 0;
+    }
+    .course-image{
+        max-width:100%;
+        border-radius:8px;
+        box-shadow:0 4px 12px rgba(0,0,0,0.1);
+    }
+    .course-note{
+        margin-top:20px;
+        font-size:0.9rem;
+        color:#666;
+    }
 }
 </style>

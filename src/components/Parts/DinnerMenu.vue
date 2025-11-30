@@ -10,13 +10,14 @@
                                 <p class="menu-explain" v-text="data.text"></p>
                             </div>
                         </div>  
-                        <div class="image-container">
+                        <br/>
+                        <!-- <div class="image-container">
                             <div class="image-wrapper">
                                 <div class="cp_cssslider">
                                     <img :src="data.img" />
                                 </div>
                             </div>
-                        </div>
+                        </div> -->
                         <div>
                             <p class="price">コース料金 : {{data.menu.price}}</p>
                         </div>
