@@ -50,7 +50,7 @@
                 </div>
                 <div class="detail  columns is-mobile">
                     <p class="column is-2 is-2-mobile info_name">営業時間</p>
-                    <p class="column is-10 is-offset-1-mobile is-9-mobile">茶屋&nbsp;:&nbsp;10:00&nbsp;～&nbsp;18:00<br>宴会&nbsp;:&nbsp;11:00&nbsp;～&nbsp;22:00（要予約）</p>
+                    <p class="column is-10 is-offset-1-mobile is-9-mobile">茶屋&nbsp;:&nbsp;10:00&nbsp;～&nbsp;18:00<br>宴会&nbsp;:&nbsp;要予約</p>
                 </div>
                 <div class="detail  columns is-mobile">
                     <p class="column is-2 is-2-mobile info_name">定休日</p>

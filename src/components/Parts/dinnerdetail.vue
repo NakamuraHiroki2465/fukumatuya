@@ -54,7 +54,7 @@
                                 </div>
                                 <div  class="detail">
                                     <p style="white-space:pre-wrap; word-wrap:break-word;" class=" info_name">営業時間</p>
-                                    <p style="white-space:pre-wrap; word-wrap:break-word;" class="" >&nbsp;茶屋: <span class="number-spacing">10:00 〜 18:00</span><br>&nbsp;宴会: <span class="number-spacing">11:00 〜 22:00</span>&nbsp;(要予約)</p>
+                                    <p style="white-space:pre-wrap; word-wrap:break-word;" class="" >&nbsp;茶屋: <span class="number-spacing">10:00 〜 18:00</span><br>&nbsp;宴会: 要予約</p>
                                 </div>
                                 <div  class="detail">
                                     <p style="white-space:pre-wrap; word-wrap:break-word;" class=" info_name">定休日</p>
@@ -77,8 +77,8 @@
                                 <div class="reservation">
                                     <p class="phone_index">お問い合わせはこちらまで</p>
                                     <p class="phone number-spacing">0282-22-1827</p>
-                                    <p class="store_time number-spacing">営業時間 : 10:00〜22:00</p>
-                                    <p class="time-yoyaku">(茶屋は18時まで。会席料理は要予約)</p>
+                                    <p class="store_time number-spacing">営業時間 : 10:00〜18:00</p>
+                                    <p class="time-yoyaku">(会席料理は要予約)</p>
                                 </div>
                             </template>
                         </div>

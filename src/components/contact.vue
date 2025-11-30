@@ -20,7 +20,7 @@
                             <p class="column is-2-desktop is-12-tablet info_name">営業時間</p>
                             <div class="detail-container column is-10-desktop is-12-tablet is-offset-1-mobile">
                                 <p>茶屋&nbsp;:&nbsp;10:00&nbsp;～&nbsp;18:00</p>
-                                <p>宴会&nbsp;:&nbsp;11:00&nbsp;～&nbsp;22:00（要予約）</p>
+                                <p>宴会&nbsp;:&nbsp;要予約</p>
                             </div>
                         </div>
                         <div class="detail  columns is-multiline">
@@ -36,7 +36,7 @@
         <div class="reservation">
             <p class="phone_index">お問い合わせはこちらまで</p>
             <p class="phone">TEL:0282-22-1827</p>
-            <p class="store_time">営業時間 : 10:00〜22:00<br >&nbsp;(茶屋は18時まで。会席料理は要予約)</p>
+            <p class="store_time">営業時間 : 10:00〜18:00<br >&nbsp;(会席料理は要予約)</p>
         </div>
     </div>
 </div>
