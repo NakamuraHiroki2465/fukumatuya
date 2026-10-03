@@ -125,13 +125,13 @@ export default {
                 },
                 {
                     name:'焼き鳥',
-                    price:'630',
+                    price:'690',
                     text:'長年に渡り、つけたし守り続けられた秘伝のたれをご堪能できます。栃木鳥の百日雛と呼ばれる雛鳥を使用しており、柔らかく味のしっかりとついた焼き鳥を是非ご賞味ください。',
                     img:require('@/assets/images/yakitori-pic.png'),
                     alt:'焼き鳥イラスト',
                     relatemenu:[
                         {
-                            name:'焼き鳥（単品) 630円',
+                            name:'焼き鳥（単品) 690円',
                         }
                     ]
                 },
@@ -143,7 +143,7 @@ export default {
                 },
                 {
                     name:'焼き鳥',
-                    price:'630',
+                    price:'690',
                 },
                 {
                     name:'玉子焼',
